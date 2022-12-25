@@ -1,6 +1,7 @@
 # movie_app
 
 A new Flutter project that show the movies and it’s Details  like NowPlaying Movies,PopularMovies ,TopRated Movies.
+coded with Clean Architecture.
 
 
 
