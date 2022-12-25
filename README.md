@@ -1,16 +1,13 @@
 # movie_app
 
-A new Flutter project.
+A new Flutter project that show the movies and it’s Details  like NowPlaying Movies,PopularMovies ,TopRated Movies.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+ Develop with :-
+ [Flutter ,Bloc, ReastOf Movie Api,Dio, Equatable,Dartz,Get_it, Animate_Do,Cache_Network_image,Carousel_Slider, Shimmer],
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+https://user-images.githubusercontent.com/50058905/209465744-c146d42c-aadc-4074-82d7-c1c115ceee2d.mp4
+
