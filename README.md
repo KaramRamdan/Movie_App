@@ -6,7 +6,7 @@ coded with Clean Architecture.
 
 
  Develop with :-
- [Flutter ,Bloc, ReastOf Movie Api,Dio, Equatable,Dartz,Get_it, Animate_Do,Cache_Network_image,Carousel_Slider, Shimmer],
+ [ Clean Architecture, Flutter ,Bloc, ReastOf Movie Api,Dio, Equatable,Dartz,Get_it, Animate_Do,Cache_Network_image,Carousel_Slider, Shimmer],
 
 
 
